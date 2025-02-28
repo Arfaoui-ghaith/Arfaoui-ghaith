@@ -1,6 +1,6 @@
 <p align="center">
   <picture align="center">
-    <img align="middle" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
+    <img align="middle" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px">
   </picture>
 </p>
 <h1 align="center">
