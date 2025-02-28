@@ -12,7 +12,7 @@
   <tr>
     <td width="50%" align="left">
       <ul>
-        <li>💼 <strong>JavaScript ninja</strong>strong> with experience in <strong>Full-Stack Development</strong>, <strong>Python (Web Scraping)</strong>, and <strong>AWS</strong></li>
+        <li>💼 <strong>JavaScript ninja</strong> with experience in <strong>Full-Stack Development</strong>, <strong>Python (Web Scraping)</strong>, and <strong>AWS</strong></li>
         <li>🌱 Currently learning <strong>AWS Solutions Architecture</strong></li>
         <li>💬 Passionate about <strong>web scraping</strong>, <strong>data crawling</strong>, and always curious about <strong>cloud-based solutions</strong></li>
         <li>💬 Ask me about <strong>problem solving, challenging IT solutions</strong>, <strong>Deployment</strong>, <strong>API Integrations</strong></li>
