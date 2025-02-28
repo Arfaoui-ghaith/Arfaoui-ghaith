@@ -35,7 +35,7 @@
       <img title="🔥 Streak Stats" alt="Ghaith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfaoui-ghaith&theme=light&hide_border=false"> 
     </td>
     <td width="50%" align="center">
-      <img align="middle" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Arfaoui-ghaith&theme=light&hide_border=false&langs_count=10">
+      <img align="middle" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Arfaoui-ghaith&theme=light&hide_border=false&langs_count=5&count_private=true">
     </td>
   </tr>
 </table>
