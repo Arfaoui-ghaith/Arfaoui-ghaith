@@ -48,7 +48,6 @@
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Logo">
     <img src="https://images.credly.com/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="120" alt="AWS Logo">
     <img src="https://assets.static-upwork.com/images/certification/logos/high/javascript-back-end-development.png" width="120" alt="JavaScript Logo">
-    <img src="https://i.ibb.co/sdgJjWDk/node-js-full-stack-development-1.png" width="120" alt="Node.js Logo">
 </p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
