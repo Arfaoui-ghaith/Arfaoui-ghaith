@@ -28,20 +28,6 @@
   </tr>
 </table>
 <hr>
-<h3 align="center">My Statistics:</h3>
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img align="middle" src="https://github-readme-stats.vercel.app/api?username=Arfaoui-ghaith&theme=light&show_icons=true&count_private=true">
-      <br><br>
-      <img title="🔥 Streak Stats" alt="Ghaith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Arfaoui-ghaith&theme=light&hide_border=false"> 
-    </td>
-    <td width="50%" align="center">
-      <img align="middle" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Arfaoui-ghaith&theme=light&hide_border=false&langs_count=5&count_private=true">
-    </td>
-  </tr>
-</table>
-<hr>
 <h3 align="center">💼 Certifications</h3>
 <p style="display: inline-block;" align="center">
     <img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" alt="AWS Logo">
