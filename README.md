@@ -141,7 +141,4 @@
   <a href="https://github.com/Arfaoui-ghaith" target="blank">
     <img align="middle" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="50" width="50">
   </a>
-  <a href="https://www.upwork.com/freelancers/~01120eca52fa98217a" target="blank">
-    <img align="middle" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="Upwork" height="50" width="50">
-  </a>
 </p>
